@@ -8,8 +8,8 @@ paginate = 10
 enableRobotsTXT = true
 
 [params]
-  author = '你的名字'
-  description = '这里写一句你的博客简介'
+  author = 'lixiaoli'
+  description = '财富自由，身价上亿'
   defaultTheme = 'auto'
   ShowReadingTime = true
   ShowShareButtons = false
@@ -21,11 +21,11 @@ enableRobotsTXT = true
 
   [params.homeInfoParams]
     Title = '你好，欢迎来我的博客'
-    Content = '这里放一句欢迎语。'
+    Content = '这里是李晓丽的博客。'
 
   [[params.socialIcons]]
     name = 'github'
-    url = 'https://github.com/你的用户名'
+    url = 'https://lixiaoli-bit.github.io/'
 
 [menu]
   [[menu.main]]
